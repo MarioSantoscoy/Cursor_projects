@@ -1,0 +1,43 @@
+Sales Analysis Report
+====================
+
+Best-selling product by units sold: Elden Ring
+Best-selling product with highest revenue: PlayStation 5
+Highest grossing product: PlayStation 5 ($51998.96)
+
+Units Sold per Product:
+  Controlador DualSense: 114
+  Elden Ring: 132
+  FIFA 24: 117
+  God of War Ragnarok: 84
+  Headset Gaming: 112
+  Hogwarts Legacy: 98
+  Mario Kart 8 Deluxe: 102
+  Minecraft: 117
+  Nintendo Switch OLED: 102
+  PlayStation 5: 104
+  Spider-Man 2: 91
+  Tarjeta Regalo $20: 110
+  The Legend of Zelda: TOTK: 109
+  Xbox Series X: 81
+
+Top 5 Products by Revenue:
+  PlayStation 5: $51998.96
+  Xbox Series X: $40499.19
+  Nintendo Switch OLED: $35698.98
+  Controlador DualSense: $7978.86
+  Elden Ring: $7918.68
+
+Monthly Sales:
+  2023-01: 98
+  2023-02: 117
+  2023-03: 122
+  2023-04: 113
+  2023-05: 145
+  2023-06: 132
+  2023-07: 153
+  2023-08: 126
+  2023-09: 108
+  2023-10: 112
+  2023-11: 125
+  2023-12: 122

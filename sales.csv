@@ -1,0 +1,1001 @@
+Date,Product,Sales,Price
+2023-06-20,Elden Ring,1,59.99
+2023-03-15,Spider-Man 2,1,69.99
+2023-06-13,God of War Ragnarok,1,69.99
+2023-02-14,Xbox Series X,2,499.99
+2023-02-21,Hogwarts Legacy,1,69.99
+2023-08-25,Minecraft,1,29.99
+2023-09-13,Headset Gaming,1,49.99
+2023-07-05,God of War Ragnarok,1,69.99
+2023-10-28,PlayStation 5,1,499.99
+2023-03-31,Headset Gaming,1,49.99
+2023-01-11,Spider-Man 2,1,69.99
+2023-09-17,FIFA 24,1,59.99
+2023-07-23,Minecraft,1,29.99
+2023-07-24,God of War Ragnarok,2,69.99
+2023-03-23,Hogwarts Legacy,2,69.99
+2023-09-09,FIFA 24,2,59.99
+2023-08-19,Tarjeta Regalo $20,1,20.0
+2023-05-31,Controlador DualSense,1,69.99
+2023-07-31,Hogwarts Legacy,2,69.99
+2023-03-12,Minecraft,1,29.99
+2023-04-10,The Legend of Zelda: TOTK,1,69.99
+2023-05-24,Controlador DualSense,1,69.99
+2023-09-13,Xbox Series X,1,499.99
+2023-04-19,Hogwarts Legacy,1,69.99
+2023-03-02,Minecraft,1,29.99
+2023-01-19,The Legend of Zelda: TOTK,1,69.99
+2023-11-25,Mario Kart 8 Deluxe,2,59.99
+2023-01-24,Hogwarts Legacy,1,69.99
+2023-07-08,Nintendo Switch OLED,1,349.99
+2023-07-21,Elden Ring,3,59.99
+2023-07-16,Elden Ring,3,59.99
+2023-01-01,Xbox Series X,1,499.99
+2023-08-24,Hogwarts Legacy,1,69.99
+2023-10-17,Hogwarts Legacy,1,69.99
+2023-07-05,Elden Ring,3,59.99
+2023-08-18,PlayStation 5,1,499.99
+2023-10-18,Headset Gaming,1,49.99
+2023-02-13,The Legend of Zelda: TOTK,2,69.99
+2023-07-04,FIFA 24,1,59.99
+2023-09-24,Headset Gaming,1,49.99
+2023-10-02,Nintendo Switch OLED,1,349.99
+2023-01-24,Tarjeta Regalo $20,1,20.0
+2023-09-26,The Legend of Zelda: TOTK,1,69.99
+2023-11-28,PlayStation 5,2,499.99
+2023-09-28,Elden Ring,2,59.99
+2023-11-17,Tarjeta Regalo $20,1,20.0
+2023-02-10,Spider-Man 2,1,69.99
+2023-12-05,The Legend of Zelda: TOTK,1,69.99
+2023-08-05,God of War Ragnarok,1,69.99
+2023-07-04,The Legend of Zelda: TOTK,1,69.99
+2023-01-21,The Legend of Zelda: TOTK,3,69.99
+2023-10-21,PlayStation 5,1,499.99
+2023-10-29,The Legend of Zelda: TOTK,1,69.99
+2023-02-17,Hogwarts Legacy,1,69.99
+2023-05-31,Controlador DualSense,1,69.99
+2023-06-12,FIFA 24,1,59.99
+2023-10-30,Headset Gaming,1,49.99
+2023-03-24,Elden Ring,4,59.99
+2023-06-23,Nintendo Switch OLED,2,349.99
+2023-03-11,Controlador DualSense,5,69.99
+2023-11-15,FIFA 24,1,59.99
+2023-02-14,FIFA 24,2,59.99
+2023-05-18,Tarjeta Regalo $20,2,20.0
+2023-01-29,Mario Kart 8 Deluxe,2,59.99
+2023-12-26,FIFA 24,2,59.99
+2023-08-28,Tarjeta Regalo $20,1,20.0
+2023-06-06,The Legend of Zelda: TOTK,1,69.99
+2023-04-24,Elden Ring,1,59.99
+2023-01-02,FIFA 24,1,59.99
+2023-04-01,Spider-Man 2,1,69.99
+2023-07-12,Elden Ring,4,59.99
+2023-10-29,Tarjeta Regalo $20,1,20.0
+2023-08-17,Xbox Series X,2,499.99
+2023-10-23,Mario Kart 8 Deluxe,1,59.99
+2023-09-15,Xbox Series X,2,499.99
+2023-05-15,Tarjeta Regalo $20,1,20.0
+2023-08-07,Elden Ring,1,59.99
+2023-01-18,Mario Kart 8 Deluxe,1,59.99
+2023-09-02,Headset Gaming,1,49.99
+2023-07-11,Headset Gaming,1,49.99
+2023-05-11,Xbox Series X,1,499.99
+2023-08-08,Elden Ring,1,59.99
+2023-03-23,Hogwarts Legacy,2,69.99
+2023-07-04,Minecraft,1,29.99
+2023-09-01,PlayStation 5,1,499.99
+2023-07-19,God of War Ragnarok,2,69.99
+2023-03-19,Xbox Series X,1,499.99
+2023-11-14,Headset Gaming,1,49.99
+2023-01-15,Xbox Series X,1,499.99
+2023-07-30,FIFA 24,3,59.99
+2023-03-29,Elden Ring,2,59.99
+2023-04-28,Mario Kart 8 Deluxe,1,59.99
+2023-07-16,God of War Ragnarok,2,69.99
+2023-05-04,Nintendo Switch OLED,2,349.99
+2023-02-18,Spider-Man 2,1,69.99
+2023-06-18,Tarjeta Regalo $20,5,20.0
+2023-08-17,FIFA 24,1,59.99
+2023-05-18,God of War Ragnarok,1,69.99
+2023-07-03,Headset Gaming,1,49.99
+2023-05-31,Nintendo Switch OLED,1,349.99
+2023-02-04,God of War Ragnarok,5,69.99
+2023-04-20,God of War Ragnarok,1,69.99
+2023-01-08,God of War Ragnarok,2,69.99
+2023-10-13,Controlador DualSense,2,69.99
+2023-12-12,Xbox Series X,1,499.99
+2023-06-02,Hogwarts Legacy,1,69.99
+2023-04-02,The Legend of Zelda: TOTK,1,69.99
+2023-04-13,The Legend of Zelda: TOTK,1,69.99
+2023-05-06,Minecraft,1,29.99
+2023-01-08,Tarjeta Regalo $20,1,20.0
+2023-08-09,Controlador DualSense,2,69.99
+2023-10-13,The Legend of Zelda: TOTK,1,69.99
+2023-07-12,Tarjeta Regalo $20,2,20.0
+2023-05-23,PlayStation 5,1,499.99
+2023-09-16,Spider-Man 2,1,69.99
+2023-03-01,God of War Ragnarok,1,69.99
+2023-05-21,Controlador DualSense,2,69.99
+2023-09-02,Nintendo Switch OLED,2,349.99
+2023-06-02,Tarjeta Regalo $20,1,20.0
+2023-04-22,Nintendo Switch OLED,2,349.99
+2023-01-02,Nintendo Switch OLED,1,349.99
+2023-11-17,Controlador DualSense,1,69.99
+2023-05-05,Tarjeta Regalo $20,1,20.0
+2023-05-27,Mario Kart 8 Deluxe,1,59.99
+2023-01-07,Mario Kart 8 Deluxe,2,59.99
+2023-02-25,Nintendo Switch OLED,5,349.99
+2023-06-03,FIFA 24,1,59.99
+2023-06-26,Mario Kart 8 Deluxe,1,59.99
+2023-01-08,The Legend of Zelda: TOTK,2,69.99
+2023-10-13,The Legend of Zelda: TOTK,2,69.99
+2023-08-09,Hogwarts Legacy,1,69.99
+2023-04-20,FIFA 24,1,59.99
+2023-10-04,Controlador DualSense,3,69.99
+2023-05-21,FIFA 24,1,59.99
+2023-12-14,Spider-Man 2,2,69.99
+2023-10-24,The Legend of Zelda: TOTK,2,69.99
+2023-08-16,Headset Gaming,1,49.99
+2023-02-02,Xbox Series X,1,499.99
+2023-07-12,Controlador DualSense,1,69.99
+2023-05-04,Elden Ring,2,59.99
+2023-07-06,God of War Ragnarok,1,69.99
+2023-05-05,Nintendo Switch OLED,2,349.99
+2023-10-19,FIFA 24,1,59.99
+2023-09-25,Xbox Series X,1,499.99
+2023-05-28,Nintendo Switch OLED,2,349.99
+2023-07-14,Mario Kart 8 Deluxe,2,59.99
+2023-04-22,Xbox Series X,2,499.99
+2023-01-30,PlayStation 5,2,499.99
+2023-11-08,Elden Ring,2,59.99
+2023-06-14,Controlador DualSense,1,69.99
+2023-03-18,God of War Ragnarok,1,69.99
+2023-05-14,God of War Ragnarok,2,69.99
+2023-11-09,FIFA 24,1,59.99
+2023-03-25,Xbox Series X,1,499.99
+2023-08-21,Nintendo Switch OLED,3,349.99
+2023-10-27,Xbox Series X,2,499.99
+2023-11-06,Elden Ring,2,59.99
+2023-07-07,Minecraft,1,29.99
+2023-11-26,Hogwarts Legacy,2,69.99
+2023-08-18,FIFA 24,2,59.99
+2023-06-03,The Legend of Zelda: TOTK,1,69.99
+2023-11-07,Elden Ring,1,59.99
+2023-07-05,Mario Kart 8 Deluxe,1,59.99
+2023-07-01,Mario Kart 8 Deluxe,1,59.99
+2023-06-10,Hogwarts Legacy,2,69.99
+2023-10-30,Headset Gaming,3,49.99
+2023-01-13,Tarjeta Regalo $20,4,20.0
+2023-05-05,The Legend of Zelda: TOTK,2,69.99
+2023-07-17,Controlador DualSense,2,69.99
+2023-12-18,Xbox Series X,1,499.99
+2023-08-08,PlayStation 5,1,499.99
+2023-06-05,Minecraft,2,29.99
+2023-04-29,PlayStation 5,1,499.99
+2023-03-30,FIFA 24,2,59.99
+2023-01-08,Nintendo Switch OLED,1,349.99
+2023-05-21,Headset Gaming,2,49.99
+2023-06-07,Xbox Series X,1,499.99
+2023-06-17,God of War Ragnarok,1,69.99
+2023-04-05,Controlador DualSense,4,69.99
+2023-09-22,Xbox Series X,1,499.99
+2023-03-12,God of War Ragnarok,1,69.99
+2023-06-07,PlayStation 5,1,499.99
+2023-12-12,Spider-Man 2,1,69.99
+2023-12-10,Controlador DualSense,1,69.99
+2023-02-12,God of War Ragnarok,1,69.99
+2023-11-28,PlayStation 5,2,499.99
+2023-08-11,Tarjeta Regalo $20,1,20.0
+2023-01-16,Headset Gaming,1,49.99
+2023-06-20,Minecraft,1,29.99
+2023-03-08,Spider-Man 2,1,69.99
+2023-10-16,Headset Gaming,3,49.99
+2023-04-23,The Legend of Zelda: TOTK,1,69.99
+2023-10-15,Elden Ring,1,59.99
+2023-01-22,Elden Ring,2,59.99
+2023-03-20,Spider-Man 2,1,69.99
+2023-08-23,Mario Kart 8 Deluxe,1,59.99
+2023-08-19,PlayStation 5,1,499.99
+2023-01-28,Tarjeta Regalo $20,1,20.0
+2023-06-28,Elden Ring,1,59.99
+2023-06-29,Elden Ring,1,59.99
+2023-02-02,Controlador DualSense,3,69.99
+2023-07-08,FIFA 24,1,59.99
+2023-12-19,FIFA 24,1,59.99
+2023-02-11,Minecraft,1,29.99
+2023-07-27,Nintendo Switch OLED,2,349.99
+2023-11-02,Hogwarts Legacy,1,69.99
+2023-02-18,Tarjeta Regalo $20,1,20.0
+2023-10-29,The Legend of Zelda: TOTK,1,69.99
+2023-08-01,Elden Ring,1,59.99
+2023-08-09,FIFA 24,2,59.99
+2023-02-12,Tarjeta Regalo $20,1,20.0
+2023-06-14,Spider-Man 2,1,69.99
+2023-02-21,Minecraft,1,29.99
+2023-03-23,FIFA 24,1,59.99
+2023-05-11,Tarjeta Regalo $20,1,20.0
+2023-12-25,Headset Gaming,1,49.99
+2023-08-16,PlayStation 5,1,499.99
+2023-11-20,Xbox Series X,1,499.99
+2023-02-03,Headset Gaming,1,49.99
+2023-11-28,Xbox Series X,3,499.99
+2023-11-04,Headset Gaming,2,49.99
+2023-01-01,Mario Kart 8 Deluxe,1,59.99
+2023-02-04,Hogwarts Legacy,2,69.99
+2023-02-06,Hogwarts Legacy,2,69.99
+2023-02-22,Elden Ring,1,59.99
+2023-11-16,Minecraft,1,29.99
+2023-01-07,Xbox Series X,1,499.99
+2023-11-30,Nintendo Switch OLED,1,349.99
+2023-05-03,The Legend of Zelda: TOTK,1,69.99
+2023-04-06,Spider-Man 2,1,69.99
+2023-08-20,FIFA 24,3,59.99
+2023-06-28,Headset Gaming,4,49.99
+2023-05-10,Hogwarts Legacy,2,69.99
+2023-05-20,Mario Kart 8 Deluxe,1,59.99
+2023-05-14,Spider-Man 2,1,69.99
+2023-02-04,Xbox Series X,1,499.99
+2023-05-19,PlayStation 5,5,499.99
+2023-01-06,FIFA 24,1,59.99
+2023-10-28,Headset Gaming,4,49.99
+2023-05-22,God of War Ragnarok,1,69.99
+2023-12-25,FIFA 24,1,59.99
+2023-12-10,Nintendo Switch OLED,1,349.99
+2023-10-31,Minecraft,1,29.99
+2023-05-15,Xbox Series X,1,499.99
+2023-01-21,Tarjeta Regalo $20,1,20.0
+2023-11-22,Hogwarts Legacy,1,69.99
+2023-07-22,Hogwarts Legacy,1,69.99
+2023-04-07,Hogwarts Legacy,1,69.99
+2023-05-18,Minecraft,1,29.99
+2023-02-04,Spider-Man 2,1,69.99
+2023-04-03,Nintendo Switch OLED,1,349.99
+2023-01-16,Elden Ring,1,59.99
+2023-07-09,Elden Ring,1,59.99
+2023-11-01,Spider-Man 2,1,69.99
+2023-04-26,FIFA 24,1,59.99
+2023-05-06,Controlador DualSense,1,69.99
+2023-01-12,Nintendo Switch OLED,1,349.99
+2023-03-03,Controlador DualSense,1,69.99
+2023-03-31,The Legend of Zelda: TOTK,1,69.99
+2023-06-22,Elden Ring,1,59.99
+2023-01-03,Hogwarts Legacy,1,69.99
+2023-05-03,Tarjeta Regalo $20,1,20.0
+2023-05-17,Headset Gaming,1,49.99
+2023-10-16,Nintendo Switch OLED,1,349.99
+2023-04-05,Controlador DualSense,2,69.99
+2023-10-15,God of War Ragnarok,1,69.99
+2023-07-06,FIFA 24,1,59.99
+2023-07-02,Nintendo Switch OLED,1,349.99
+2023-03-19,Elden Ring,1,59.99
+2023-10-04,Tarjeta Regalo $20,2,20.0
+2023-07-14,Elden Ring,1,59.99
+2023-01-15,Tarjeta Regalo $20,1,20.0
+2023-11-22,PlayStation 5,1,499.99
+2023-08-04,Spider-Man 2,1,69.99
+2023-03-22,PlayStation 5,2,499.99
+2023-03-21,Minecraft,1,29.99
+2023-06-08,Minecraft,1,29.99
+2023-01-07,Hogwarts Legacy,1,69.99
+2023-11-05,PlayStation 5,1,499.99
+2023-09-17,Tarjeta Regalo $20,2,20.0
+2023-11-29,Mario Kart 8 Deluxe,1,59.99
+2023-11-26,Headset Gaming,1,49.99
+2023-10-23,Xbox Series X,1,499.99
+2023-05-04,Mario Kart 8 Deluxe,2,59.99
+2023-07-01,The Legend of Zelda: TOTK,1,69.99
+2023-03-23,Minecraft,4,29.99
+2023-12-27,Headset Gaming,1,49.99
+2023-07-22,Spider-Man 2,1,69.99
+2023-11-05,Controlador DualSense,4,69.99
+2023-10-03,Elden Ring,1,59.99
+2023-08-11,Mario Kart 8 Deluxe,3,59.99
+2023-12-18,Elden Ring,1,59.99
+2023-08-11,Spider-Man 2,1,69.99
+2023-08-04,FIFA 24,1,59.99
+2023-03-22,Elden Ring,1,59.99
+2023-01-08,Tarjeta Regalo $20,1,20.0
+2023-12-29,PlayStation 5,3,499.99
+2023-05-28,Xbox Series X,1,499.99
+2023-01-20,FIFA 24,1,59.99
+2023-03-12,The Legend of Zelda: TOTK,2,69.99
+2023-10-28,God of War Ragnarok,2,69.99
+2023-10-12,Elden Ring,1,59.99
+2023-10-23,The Legend of Zelda: TOTK,1,69.99
+2023-12-13,Minecraft,1,29.99
+2023-04-29,Tarjeta Regalo $20,1,20.0
+2023-01-12,Elden Ring,1,59.99
+2023-11-18,Spider-Man 2,1,69.99
+2023-01-26,Xbox Series X,1,499.99
+2023-05-27,The Legend of Zelda: TOTK,2,69.99
+2023-08-20,Headset Gaming,1,49.99
+2023-03-24,Minecraft,1,29.99
+2023-07-01,FIFA 24,1,59.99
+2023-03-06,Mario Kart 8 Deluxe,1,59.99
+2023-12-08,FIFA 24,2,59.99
+2023-01-02,Headset Gaming,2,49.99
+2023-10-12,God of War Ragnarok,1,69.99
+2023-07-14,Controlador DualSense,1,69.99
+2023-02-11,The Legend of Zelda: TOTK,2,69.99
+2023-12-08,Spider-Man 2,1,69.99
+2023-08-28,The Legend of Zelda: TOTK,1,69.99
+2023-05-30,Nintendo Switch OLED,1,349.99
+2023-10-04,Xbox Series X,1,499.99
+2023-12-22,Mario Kart 8 Deluxe,1,59.99
+2023-07-31,Elden Ring,1,59.99
+2023-05-12,FIFA 24,1,59.99
+2023-01-14,The Legend of Zelda: TOTK,1,69.99
+2023-09-22,The Legend of Zelda: TOTK,1,69.99
+2023-12-27,The Legend of Zelda: TOTK,1,69.99
+2023-11-09,Minecraft,1,29.99
+2023-06-05,PlayStation 5,2,499.99
+2023-09-24,Elden Ring,1,59.99
+2023-06-17,Minecraft,1,29.99
+2023-08-12,Elden Ring,1,59.99
+2023-09-11,FIFA 24,1,59.99
+2023-10-16,The Legend of Zelda: TOTK,1,69.99
+2023-07-28,Nintendo Switch OLED,1,349.99
+2023-12-30,Minecraft,1,29.99
+2023-07-16,Spider-Man 2,1,69.99
+2023-01-14,PlayStation 5,2,499.99
+2023-02-11,Minecraft,3,29.99
+2023-05-08,Spider-Man 2,1,69.99
+2023-08-14,PlayStation 5,1,499.99
+2023-07-10,Mario Kart 8 Deluxe,1,59.99
+2023-02-26,Xbox Series X,1,499.99
+2023-06-20,The Legend of Zelda: TOTK,1,69.99
+2023-05-21,The Legend of Zelda: TOTK,2,69.99
+2023-05-04,FIFA 24,1,59.99
+2023-09-24,Minecraft,1,29.99
+2023-06-07,Elden Ring,3,59.99
+2023-09-03,Nintendo Switch OLED,1,349.99
+2023-07-28,Hogwarts Legacy,1,69.99
+2023-06-01,Spider-Man 2,1,69.99
+2023-06-13,Xbox Series X,1,499.99
+2023-05-28,Hogwarts Legacy,2,69.99
+2023-01-27,FIFA 24,1,59.99
+2023-04-24,PlayStation 5,1,499.99
+2023-11-03,Controlador DualSense,2,69.99
+2023-07-28,PlayStation 5,1,499.99
+2023-04-14,FIFA 24,2,59.99
+2023-07-17,The Legend of Zelda: TOTK,3,69.99
+2023-05-15,Minecraft,1,29.99
+2023-01-03,PlayStation 5,1,499.99
+2023-12-21,The Legend of Zelda: TOTK,1,69.99
+2023-08-01,Spider-Man 2,2,69.99
+2023-10-15,Xbox Series X,1,499.99
+2023-09-13,Headset Gaming,1,49.99
+2023-12-14,Spider-Man 2,2,69.99
+2023-02-02,The Legend of Zelda: TOTK,2,69.99
+2023-01-06,The Legend of Zelda: TOTK,3,69.99
+2023-04-18,Xbox Series X,1,499.99
+2023-06-13,Minecraft,1,29.99
+2023-01-08,Elden Ring,1,59.99
+2023-08-19,FIFA 24,1,59.99
+2023-07-28,Tarjeta Regalo $20,1,20.0
+2023-08-14,Hogwarts Legacy,2,69.99
+2023-01-12,Headset Gaming,1,49.99
+2023-02-17,Hogwarts Legacy,1,69.99
+2023-04-16,Minecraft,2,29.99
+2023-12-18,Controlador DualSense,1,69.99
+2023-09-03,Headset Gaming,1,49.99
+2023-08-30,Minecraft,5,29.99
+2023-04-17,Spider-Man 2,1,69.99
+2023-10-10,FIFA 24,1,59.99
+2023-01-08,Elden Ring,1,59.99
+2023-02-22,Spider-Man 2,1,69.99
+2023-09-05,FIFA 24,1,59.99
+2023-07-13,Spider-Man 2,1,69.99
+2023-12-21,Elden Ring,3,59.99
+2023-08-11,Elden Ring,1,59.99
+2023-03-30,Elden Ring,2,59.99
+2023-07-19,Headset Gaming,1,49.99
+2023-02-24,Controlador DualSense,2,69.99
+2023-03-16,Mario Kart 8 Deluxe,1,59.99
+2023-06-18,FIFA 24,1,59.99
+2023-07-23,God of War Ragnarok,3,69.99
+2023-08-31,Headset Gaming,2,49.99
+2023-07-16,The Legend of Zelda: TOTK,1,69.99
+2023-03-21,Tarjeta Regalo $20,5,20.0
+2023-05-09,Tarjeta Regalo $20,1,20.0
+2023-11-29,PlayStation 5,1,499.99
+2023-04-02,PlayStation 5,3,499.99
+2023-05-13,Controlador DualSense,1,69.99
+2023-02-03,Mario Kart 8 Deluxe,1,59.99
+2023-08-09,Controlador DualSense,1,69.99
+2023-12-13,Spider-Man 2,1,69.99
+2023-03-18,God of War Ragnarok,2,69.99
+2023-07-12,Controlador DualSense,2,69.99
+2023-04-07,Spider-Man 2,1,69.99
+2023-11-03,Spider-Man 2,1,69.99
+2023-12-23,FIFA 24,2,59.99
+2023-10-14,Tarjeta Regalo $20,1,20.0
+2023-06-13,FIFA 24,1,59.99
+2023-09-11,Headset Gaming,1,49.99
+2023-08-18,Minecraft,3,29.99
+2023-01-29,The Legend of Zelda: TOTK,1,69.99
+2023-02-23,Mario Kart 8 Deluxe,1,59.99
+2023-06-28,PlayStation 5,1,499.99
+2023-01-17,Xbox Series X,1,499.99
+2023-01-30,Tarjeta Regalo $20,1,20.0
+2023-10-17,Hogwarts Legacy,1,69.99
+2023-12-11,FIFA 24,2,59.99
+2023-05-03,Nintendo Switch OLED,1,349.99
+2023-12-02,Xbox Series X,1,499.99
+2023-11-25,Nintendo Switch OLED,1,349.99
+2023-09-05,Mario Kart 8 Deluxe,2,59.99
+2023-07-07,Nintendo Switch OLED,2,349.99
+2023-03-10,Minecraft,1,29.99
+2023-01-18,God of War Ragnarok,5,69.99
+2023-07-08,PlayStation 5,1,499.99
+2023-12-27,Hogwarts Legacy,1,69.99
+2023-02-28,Controlador DualSense,1,69.99
+2023-04-19,Elden Ring,1,59.99
+2023-07-16,Elden Ring,3,59.99
+2023-08-18,Headset Gaming,2,49.99
+2023-10-04,Elden Ring,1,59.99
+2023-08-03,Spider-Man 2,2,69.99
+2023-06-03,Minecraft,1,29.99
+2023-07-18,Minecraft,2,29.99
+2023-11-04,Mario Kart 8 Deluxe,5,59.99
+2023-03-10,God of War Ragnarok,1,69.99
+2023-02-26,Minecraft,1,29.99
+2023-08-10,Tarjeta Regalo $20,1,20.0
+2023-05-12,Headset Gaming,1,49.99
+2023-04-09,Hogwarts Legacy,1,69.99
+2023-10-10,Nintendo Switch OLED,1,349.99
+2023-07-19,Tarjeta Regalo $20,1,20.0
+2023-02-04,Elden Ring,1,59.99
+2023-11-29,PlayStation 5,2,499.99
+2023-03-13,Hogwarts Legacy,1,69.99
+2023-06-21,PlayStation 5,2,499.99
+2023-05-15,Hogwarts Legacy,1,69.99
+2023-07-16,Nintendo Switch OLED,1,349.99
+2023-08-07,Minecraft,1,29.99
+2023-02-25,FIFA 24,1,59.99
+2023-04-04,Spider-Man 2,1,69.99
+2023-08-31,Mario Kart 8 Deluxe,5,59.99
+2023-04-28,God of War Ragnarok,1,69.99
+2023-05-30,Headset Gaming,1,49.99
+2023-11-29,Minecraft,2,29.99
+2023-12-08,Elden Ring,2,59.99
+2023-06-28,Mario Kart 8 Deluxe,1,59.99
+2023-02-25,Nintendo Switch OLED,1,349.99
+2023-06-17,The Legend of Zelda: TOTK,1,69.99
+2023-04-30,Controlador DualSense,1,69.99
+2023-10-04,Hogwarts Legacy,1,69.99
+2023-10-15,The Legend of Zelda: TOTK,1,69.99
+2023-06-02,FIFA 24,3,59.99
+2023-07-16,PlayStation 5,2,499.99
+2023-06-15,God of War Ragnarok,1,69.99
+2023-09-16,Minecraft,1,29.99
+2023-08-22,Headset Gaming,1,49.99
+2023-04-30,FIFA 24,1,59.99
+2023-04-10,FIFA 24,1,59.99
+2023-07-13,Headset Gaming,1,49.99
+2023-02-18,Xbox Series X,4,499.99
+2023-12-10,Tarjeta Regalo $20,1,20.0
+2023-08-05,Tarjeta Regalo $20,1,20.0
+2023-02-26,PlayStation 5,2,499.99
+2023-05-14,Minecraft,2,29.99
+2023-06-27,FIFA 24,1,59.99
+2023-07-21,FIFA 24,1,59.99
+2023-12-24,Elden Ring,1,59.99
+2023-11-28,Nintendo Switch OLED,1,349.99
+2023-03-29,Mario Kart 8 Deluxe,4,59.99
+2023-11-28,Controlador DualSense,1,69.99
+2023-12-15,Spider-Man 2,2,69.99
+2023-04-19,Spider-Man 2,1,69.99
+2023-12-04,Nintendo Switch OLED,2,349.99
+2023-11-14,PlayStation 5,2,499.99
+2023-11-29,Headset Gaming,1,49.99
+2023-05-16,FIFA 24,2,59.99
+2023-08-12,Controlador DualSense,1,69.99
+2023-09-04,Nintendo Switch OLED,2,349.99
+2023-11-30,The Legend of Zelda: TOTK,1,69.99
+2023-11-12,PlayStation 5,2,499.99
+2023-09-03,Elden Ring,3,59.99
+2023-11-14,Spider-Man 2,2,69.99
+2023-06-07,Xbox Series X,1,499.99
+2023-07-08,Mario Kart 8 Deluxe,1,59.99
+2023-04-15,The Legend of Zelda: TOTK,1,69.99
+2023-06-11,God of War Ragnarok,1,69.99
+2023-08-10,Spider-Man 2,3,69.99
+2023-05-06,Headset Gaming,1,49.99
+2023-10-12,Hogwarts Legacy,2,69.99
+2023-01-12,Spider-Man 2,1,69.99
+2023-05-25,Spider-Man 2,1,69.99
+2023-05-17,Xbox Series X,1,499.99
+2023-05-09,Nintendo Switch OLED,1,349.99
+2023-04-05,Tarjeta Regalo $20,1,20.0
+2023-04-24,Controlador DualSense,1,69.99
+2023-07-25,Xbox Series X,1,499.99
+2023-12-23,Controlador DualSense,5,69.99
+2023-08-14,Hogwarts Legacy,1,69.99
+2023-11-16,Mario Kart 8 Deluxe,1,59.99
+2023-11-21,Minecraft,2,29.99
+2023-02-08,God of War Ragnarok,1,69.99
+2023-05-03,Hogwarts Legacy,2,69.99
+2023-06-28,Minecraft,1,29.99
+2023-12-31,Nintendo Switch OLED,1,349.99
+2023-02-04,Minecraft,1,29.99
+2023-09-06,Nintendo Switch OLED,3,349.99
+2023-11-13,Tarjeta Regalo $20,1,20.0
+2023-07-24,Spider-Man 2,1,69.99
+2023-08-10,Nintendo Switch OLED,1,349.99
+2023-12-08,Hogwarts Legacy,1,69.99
+2023-04-14,Elden Ring,2,59.99
+2023-03-08,Headset Gaming,1,49.99
+2023-08-18,FIFA 24,1,59.99
+2023-06-20,Hogwarts Legacy,5,69.99
+2023-10-04,PlayStation 5,1,499.99
+2023-06-12,Headset Gaming,3,49.99
+2023-04-27,FIFA 24,1,59.99
+2023-11-18,Spider-Man 2,1,69.99
+2023-04-29,PlayStation 5,1,499.99
+2023-10-20,God of War Ragnarok,2,69.99
+2023-11-08,Mario Kart 8 Deluxe,4,59.99
+2023-09-04,Controlador DualSense,1,69.99
+2023-02-22,The Legend of Zelda: TOTK,1,69.99
+2023-12-23,Controlador DualSense,2,69.99
+2023-09-25,Headset Gaming,4,49.99
+2023-03-13,Spider-Man 2,2,69.99
+2023-03-01,Controlador DualSense,1,69.99
+2023-09-25,The Legend of Zelda: TOTK,2,69.99
+2023-11-09,Mario Kart 8 Deluxe,2,59.99
+2023-05-17,Xbox Series X,2,499.99
+2023-10-18,Controlador DualSense,1,69.99
+2023-07-08,Hogwarts Legacy,1,69.99
+2023-05-09,PlayStation 5,1,499.99
+2023-02-08,Tarjeta Regalo $20,1,20.0
+2023-06-20,FIFA 24,2,59.99
+2023-06-30,FIFA 24,1,59.99
+2023-04-23,Minecraft,1,29.99
+2023-01-11,Mario Kart 8 Deluxe,1,59.99
+2023-12-26,Elden Ring,1,59.99
+2023-09-23,Tarjeta Regalo $20,1,20.0
+2023-10-19,FIFA 24,2,59.99
+2023-03-13,Nintendo Switch OLED,1,349.99
+2023-03-18,Minecraft,3,29.99
+2023-07-15,FIFA 24,1,59.99
+2023-08-13,God of War Ragnarok,1,69.99
+2023-10-23,God of War Ragnarok,1,69.99
+2023-04-19,Spider-Man 2,1,69.99
+2023-01-08,Mario Kart 8 Deluxe,1,59.99
+2023-08-03,FIFA 24,1,59.99
+2023-07-31,Hogwarts Legacy,1,69.99
+2023-08-27,Controlador DualSense,1,69.99
+2023-06-21,Tarjeta Regalo $20,1,20.0
+2023-12-27,PlayStation 5,1,499.99
+2023-10-17,Hogwarts Legacy,1,69.99
+2023-12-22,Hogwarts Legacy,1,69.99
+2023-06-30,Minecraft,2,29.99
+2023-06-09,Tarjeta Regalo $20,1,20.0
+2023-05-10,Tarjeta Regalo $20,1,20.0
+2023-11-04,PlayStation 5,1,499.99
+2023-09-17,FIFA 24,1,59.99
+2023-11-13,God of War Ragnarok,1,69.99
+2023-04-08,PlayStation 5,1,499.99
+2023-04-01,Hogwarts Legacy,1,69.99
+2023-12-31,Tarjeta Regalo $20,5,20.0
+2023-07-29,Elden Ring,1,59.99
+2023-05-17,Headset Gaming,3,49.99
+2023-02-24,Hogwarts Legacy,2,69.99
+2023-05-03,Spider-Man 2,1,69.99
+2023-10-22,The Legend of Zelda: TOTK,1,69.99
+2023-04-04,Nintendo Switch OLED,1,349.99
+2023-04-26,The Legend of Zelda: TOTK,1,69.99
+2023-01-04,FIFA 24,2,59.99
+2023-05-20,Nintendo Switch OLED,2,349.99
+2023-01-18,Xbox Series X,1,499.99
+2023-09-17,Elden Ring,1,59.99
+2023-12-20,God of War Ragnarok,2,69.99
+2023-11-01,Controlador DualSense,1,69.99
+2023-03-14,The Legend of Zelda: TOTK,1,69.99
+2023-04-20,Elden Ring,1,59.99
+2023-04-08,FIFA 24,2,59.99
+2023-04-18,Elden Ring,1,59.99
+2023-06-04,The Legend of Zelda: TOTK,1,69.99
+2023-09-19,Spider-Man 2,1,69.99
+2023-07-30,Nintendo Switch OLED,2,349.99
+2023-07-15,Mario Kart 8 Deluxe,1,59.99
+2023-07-19,The Legend of Zelda: TOTK,4,69.99
+2023-12-05,Elden Ring,1,59.99
+2023-10-13,FIFA 24,1,59.99
+2023-05-27,Minecraft,3,29.99
+2023-10-07,Elden Ring,1,59.99
+2023-12-04,Nintendo Switch OLED,4,349.99
+2023-09-13,Headset Gaming,1,49.99
+2023-10-25,Nintendo Switch OLED,3,349.99
+2023-12-28,Elden Ring,1,59.99
+2023-04-14,Controlador DualSense,1,69.99
+2023-04-07,Mario Kart 8 Deluxe,1,59.99
+2023-09-07,Elden Ring,1,59.99
+2023-02-16,FIFA 24,1,59.99
+2023-07-09,God of War Ragnarok,1,69.99
+2023-02-24,Minecraft,1,29.99
+2023-01-03,Hogwarts Legacy,1,69.99
+2023-06-02,Elden Ring,2,59.99
+2023-07-17,Tarjeta Regalo $20,1,20.0
+2023-12-29,FIFA 24,1,59.99
+2023-04-16,Controlador DualSense,2,69.99
+2023-09-29,Headset Gaming,1,49.99
+2023-08-16,Xbox Series X,1,499.99
+2023-06-30,FIFA 24,1,59.99
+2023-10-14,Elden Ring,1,59.99
+2023-12-13,Minecraft,1,29.99
+2023-10-31,Controlador DualSense,1,69.99
+2023-06-06,Controlador DualSense,5,69.99
+2023-07-28,Headset Gaming,1,49.99
+2023-05-28,PlayStation 5,2,499.99
+2023-04-23,Hogwarts Legacy,2,69.99
+2023-07-14,The Legend of Zelda: TOTK,1,69.99
+2023-08-05,Tarjeta Regalo $20,1,20.0
+2023-07-04,Headset Gaming,1,49.99
+2023-11-15,The Legend of Zelda: TOTK,1,69.99
+2023-06-26,Xbox Series X,1,499.99
+2023-01-26,Minecraft,1,29.99
+2023-08-27,Mario Kart 8 Deluxe,2,59.99
+2023-10-13,Mario Kart 8 Deluxe,1,59.99
+2023-03-05,Controlador DualSense,4,69.99
+2023-11-19,Minecraft,1,29.99
+2023-02-25,Spider-Man 2,5,69.99
+2023-07-02,Minecraft,3,29.99
+2023-11-02,Headset Gaming,1,49.99
+2023-10-31,FIFA 24,1,59.99
+2023-04-25,Nintendo Switch OLED,2,349.99
+2023-11-30,Mario Kart 8 Deluxe,1,59.99
+2023-09-16,Headset Gaming,1,49.99
+2023-11-26,Spider-Man 2,1,69.99
+2023-08-23,The Legend of Zelda: TOTK,4,69.99
+2023-04-24,PlayStation 5,2,499.99
+2023-05-15,PlayStation 5,1,499.99
+2023-11-28,Headset Gaming,1,49.99
+2023-08-16,Xbox Series X,1,499.99
+2023-01-24,Tarjeta Regalo $20,2,20.0
+2023-07-16,Spider-Man 2,1,69.99
+2023-01-02,Xbox Series X,1,499.99
+2023-08-21,Hogwarts Legacy,1,69.99
+2023-12-19,FIFA 24,1,59.99
+2023-05-09,Controlador DualSense,1,69.99
+2023-07-12,Spider-Man 2,1,69.99
+2023-12-27,Nintendo Switch OLED,1,349.99
+2023-07-13,Tarjeta Regalo $20,1,20.0
+2023-12-19,Controlador DualSense,1,69.99
+2023-02-05,Xbox Series X,1,499.99
+2023-04-25,Elden Ring,2,59.99
+2023-09-28,Hogwarts Legacy,1,69.99
+2023-12-04,Spider-Man 2,1,69.99
+2023-12-26,Xbox Series X,1,499.99
+2023-05-04,The Legend of Zelda: TOTK,1,69.99
+2023-04-11,Minecraft,2,29.99
+2023-06-23,Headset Gaming,1,49.99
+2023-04-23,FIFA 24,5,59.99
+2023-11-05,Tarjeta Regalo $20,1,20.0
+2023-12-05,Minecraft,1,29.99
+2023-10-05,Minecraft,1,29.99
+2023-12-31,Tarjeta Regalo $20,2,20.0
+2023-07-07,Headset Gaming,2,49.99
+2023-09-02,Spider-Man 2,1,69.99
+2023-03-26,Elden Ring,2,59.99
+2023-11-23,Minecraft,2,29.99
+2023-12-29,Tarjeta Regalo $20,2,20.0
+2023-07-23,Headset Gaming,1,49.99
+2023-09-12,Headset Gaming,1,49.99
+2023-08-04,PlayStation 5,1,499.99
+2023-08-19,God of War Ragnarok,1,69.99
+2023-10-18,Mario Kart 8 Deluxe,1,59.99
+2023-11-23,The Legend of Zelda: TOTK,1,69.99
+2023-03-08,Mario Kart 8 Deluxe,1,59.99
+2023-03-12,Spider-Man 2,1,69.99
+2023-03-08,Xbox Series X,3,499.99
+2023-07-03,God of War Ragnarok,1,69.99
+2023-10-22,Headset Gaming,1,49.99
+2023-09-20,God of War Ragnarok,5,69.99
+2023-04-23,Elden Ring,1,59.99
+2023-11-20,Spider-Man 2,1,69.99
+2023-09-23,Spider-Man 2,1,69.99
+2023-05-07,The Legend of Zelda: TOTK,1,69.99
+2023-09-01,Elden Ring,1,59.99
+2023-09-24,Spider-Man 2,2,69.99
+2023-08-03,Mario Kart 8 Deluxe,2,59.99
+2023-09-12,Spider-Man 2,1,69.99
+2023-06-06,FIFA 24,1,59.99
+2023-11-05,Mario Kart 8 Deluxe,1,59.99
+2023-10-10,Tarjeta Regalo $20,1,20.0
+2023-06-16,Elden Ring,1,59.99
+2023-06-29,God of War Ragnarok,1,69.99
+2023-01-20,Nintendo Switch OLED,2,349.99
+2023-11-09,The Legend of Zelda: TOTK,1,69.99
+2023-05-25,God of War Ragnarok,2,69.99
+2023-04-12,Nintendo Switch OLED,1,349.99
+2023-08-09,God of War Ragnarok,1,69.99
+2023-08-09,Mario Kart 8 Deluxe,2,59.99
+2023-12-26,Headset Gaming,4,49.99
+2023-10-28,The Legend of Zelda: TOTK,1,69.99
+2023-04-01,PlayStation 5,1,499.99
+2023-07-29,Nintendo Switch OLED,1,349.99
+2023-03-06,Tarjeta Regalo $20,1,20.0
+2023-05-27,Mario Kart 8 Deluxe,2,59.99
+2023-06-17,The Legend of Zelda: TOTK,3,69.99
+2023-09-02,FIFA 24,1,59.99
+2023-04-28,Xbox Series X,1,499.99
+2023-10-01,The Legend of Zelda: TOTK,1,69.99
+2023-10-28,Spider-Man 2,2,69.99
+2023-09-13,Elden Ring,3,59.99
+2023-10-25,Minecraft,1,29.99
+2023-11-30,Headset Gaming,1,49.99
+2023-02-03,PlayStation 5,1,499.99
+2023-08-14,PlayStation 5,1,499.99
+2023-11-14,FIFA 24,4,59.99
+2023-10-26,Controlador DualSense,2,69.99
+2023-05-02,Nintendo Switch OLED,1,349.99
+2023-07-09,Tarjeta Regalo $20,1,20.0
+2023-08-13,Tarjeta Regalo $20,1,20.0
+2023-06-14,Xbox Series X,2,499.99
+2023-04-19,Nintendo Switch OLED,1,349.99
+2023-06-16,Headset Gaming,3,49.99
+2023-06-24,Headset Gaming,1,49.99
+2023-02-14,PlayStation 5,1,499.99
+2023-05-17,Nintendo Switch OLED,1,349.99
+2023-08-23,Spider-Man 2,1,69.99
+2023-04-17,Mario Kart 8 Deluxe,1,59.99
+2023-12-21,Tarjeta Regalo $20,2,20.0
+2023-09-25,Mario Kart 8 Deluxe,1,59.99
+2023-06-28,PlayStation 5,1,499.99
+2023-11-25,Minecraft,1,29.99
+2023-09-07,Nintendo Switch OLED,1,349.99
+2023-05-31,The Legend of Zelda: TOTK,1,69.99
+2023-02-27,Controlador DualSense,2,69.99
+2023-09-04,Spider-Man 2,1,69.99
+2023-02-23,Headset Gaming,1,49.99
+2023-09-02,Hogwarts Legacy,1,69.99
+2023-05-02,Mario Kart 8 Deluxe,1,59.99
+2023-01-01,Headset Gaming,1,49.99
+2023-09-07,Tarjeta Regalo $20,1,20.0
+2023-07-12,God of War Ragnarok,1,69.99
+2023-04-21,Elden Ring,1,59.99
+2023-05-20,Controlador DualSense,1,69.99
+2023-08-30,Controlador DualSense,1,69.99
+2023-06-20,PlayStation 5,1,499.99
+2023-11-11,Xbox Series X,3,499.99
+2023-03-06,Hogwarts Legacy,1,69.99
+2023-01-29,Spider-Man 2,1,69.99
+2023-07-06,Controlador DualSense,5,69.99
+2023-03-08,Xbox Series X,2,499.99
+2023-04-07,Spider-Man 2,1,69.99
+2023-09-07,Minecraft,1,29.99
+2023-05-10,Controlador DualSense,1,69.99
+2023-02-20,God of War Ragnarok,1,69.99
+2023-01-31,Minecraft,1,29.99
+2023-04-01,Minecraft,1,29.99
+2023-05-05,The Legend of Zelda: TOTK,4,69.99
+2023-01-08,Nintendo Switch OLED,2,349.99
+2023-06-05,Mario Kart 8 Deluxe,1,59.99
+2023-03-16,Hogwarts Legacy,1,69.99
+2023-06-07,Elden Ring,1,59.99
+2023-06-23,Spider-Man 2,1,69.99
+2023-10-03,Spider-Man 2,1,69.99
+2023-07-22,Nintendo Switch OLED,1,349.99
+2023-12-22,PlayStation 5,1,499.99
+2023-05-31,FIFA 24,1,59.99
+2023-04-01,Headset Gaming,3,49.99
+2023-05-29,PlayStation 5,1,499.99
+2023-11-25,God of War Ragnarok,1,69.99
+2023-10-17,God of War Ragnarok,2,69.99
+2023-06-13,Spider-Man 2,1,69.99
+2023-02-11,Minecraft,1,29.99
+2023-10-30,Tarjeta Regalo $20,1,20.0
+2023-04-18,Controlador DualSense,1,69.99
+2023-10-09,The Legend of Zelda: TOTK,1,69.99
+2023-09-07,God of War Ragnarok,1,69.99
+2023-07-20,PlayStation 5,5,499.99
+2023-09-13,Nintendo Switch OLED,2,349.99
+2023-11-23,PlayStation 5,1,499.99
+2023-09-10,Minecraft,3,29.99
+2023-01-14,Elden Ring,1,59.99
+2023-03-12,FIFA 24,4,59.99
+2023-01-12,Mario Kart 8 Deluxe,1,59.99
+2023-05-19,The Legend of Zelda: TOTK,1,69.99
+2023-02-25,Tarjeta Regalo $20,3,20.0
+2023-07-02,Tarjeta Regalo $20,1,20.0
+2023-09-21,Hogwarts Legacy,4,69.99
+2023-10-10,Controlador DualSense,1,69.99
+2023-11-30,The Legend of Zelda: TOTK,2,69.99
+2023-07-01,Elden Ring,2,59.99
+2023-02-28,Nintendo Switch OLED,2,349.99
+2023-12-15,Tarjeta Regalo $20,2,20.0
+2023-05-18,Mario Kart 8 Deluxe,2,59.99
+2023-08-09,Minecraft,2,29.99
+2023-02-22,God of War Ragnarok,3,69.99
+2023-12-25,Hogwarts Legacy,1,69.99
+2023-12-13,Spider-Man 2,1,69.99
+2023-07-17,Controlador DualSense,1,69.99
+2023-03-27,PlayStation 5,1,499.99
+2023-05-15,Headset Gaming,2,49.99
+2023-10-28,The Legend of Zelda: TOTK,1,69.99
+2023-08-06,Spider-Man 2,1,69.99
+2023-04-17,Tarjeta Regalo $20,1,20.0
+2023-01-15,Controlador DualSense,1,69.99
+2023-03-29,Elden Ring,1,59.99
+2023-10-22,Xbox Series X,1,499.99
+2023-06-21,Hogwarts Legacy,1,69.99
+2023-07-01,Spider-Man 2,1,69.99
+2023-07-25,Nintendo Switch OLED,2,349.99
+2023-03-18,God of War Ragnarok,1,69.99
+2023-12-25,Tarjeta Regalo $20,1,20.0
+2023-08-02,FIFA 24,1,59.99
+2023-05-15,Minecraft,1,29.99
+2023-06-14,Headset Gaming,5,49.99
+2023-11-08,Elden Ring,2,59.99
+2023-04-07,PlayStation 5,1,499.99
+2023-02-12,Hogwarts Legacy,4,69.99
+2023-04-22,Minecraft,1,29.99
+2023-12-31,Headset Gaming,1,49.99
+2023-11-19,Controlador DualSense,3,69.99
+2023-05-28,Minecraft,4,29.99
+2023-02-28,Xbox Series X,1,499.99
+2023-06-12,Xbox Series X,1,499.99
+2023-05-16,Hogwarts Legacy,1,69.99
+2023-01-07,Tarjeta Regalo $20,1,20.0
+2023-01-21,Hogwarts Legacy,1,69.99
+2023-12-10,The Legend of Zelda: TOTK,1,69.99
+2023-04-08,The Legend of Zelda: TOTK,1,69.99
+2023-07-29,The Legend of Zelda: TOTK,1,69.99
+2023-01-28,Mario Kart 8 Deluxe,2,59.99
+2023-12-29,God of War Ragnarok,1,69.99
+2023-02-03,PlayStation 5,1,499.99
+2023-01-11,Hogwarts Legacy,2,69.99
+2023-04-09,Nintendo Switch OLED,1,349.99
+2023-11-19,Mario Kart 8 Deluxe,2,59.99
+2023-03-01,Tarjeta Regalo $20,1,20.0
+2023-10-28,Xbox Series X,1,499.99
+2023-05-26,Mario Kart 8 Deluxe,1,59.99
+2023-10-12,Elden Ring,3,59.99
+2023-12-16,Spider-Man 2,1,69.99
+2023-07-09,Tarjeta Regalo $20,1,20.0
+2023-10-07,FIFA 24,2,59.99
+2023-04-10,Nintendo Switch OLED,1,349.99
+2023-04-10,Elden Ring,3,59.99
+2023-02-06,God of War Ragnarok,2,69.99
+2023-12-15,Minecraft,1,29.99
+2023-03-08,Xbox Series X,4,499.99
+2023-08-20,Tarjeta Regalo $20,1,20.0
+2023-02-18,Hogwarts Legacy,2,69.99
+2023-03-22,Controlador DualSense,2,69.99
+2023-09-06,Minecraft,1,29.99
+2023-06-17,Xbox Series X,2,499.99
+2023-12-27,Tarjeta Regalo $20,1,20.0
+2023-08-08,Headset Gaming,1,49.99
+2023-04-06,Xbox Series X,1,499.99
+2023-06-03,Nintendo Switch OLED,1,349.99
+2023-12-09,Headset Gaming,1,49.99
+2023-09-24,Controlador DualSense,2,69.99
+2023-08-05,The Legend of Zelda: TOTK,2,69.99
+2023-11-26,Xbox Series X,1,499.99
+2023-10-06,Minecraft,1,29.99
+2023-06-12,Elden Ring,1,59.99
+2023-03-23,Mario Kart 8 Deluxe,1,59.99
+2023-03-26,PlayStation 5,1,499.99
+2023-12-09,Mario Kart 8 Deluxe,3,59.99
+2023-04-07,Minecraft,2,29.99
+2023-05-26,Headset Gaming,1,49.99
+2023-02-22,Xbox Series X,1,499.99
+2023-11-02,The Legend of Zelda: TOTK,1,69.99
+2023-07-14,Controlador DualSense,1,69.99
+2023-08-16,Spider-Man 2,1,69.99
+2023-10-18,Controlador DualSense,1,69.99
+2023-03-08,Tarjeta Regalo $20,1,20.0
+2023-05-06,Hogwarts Legacy,2,69.99
+2023-07-11,FIFA 24,1,59.99
+2023-06-03,Nintendo Switch OLED,1,349.99
+2023-09-06,Elden Ring,4,59.99
+2023-10-13,Headset Gaming,1,49.99
+2023-12-26,FIFA 24,1,59.99
+2023-12-06,Xbox Series X,1,499.99
+2023-08-22,Spider-Man 2,2,69.99
+2023-03-09,Spider-Man 2,1,69.99
+2023-01-07,Tarjeta Regalo $20,1,20.0
+2023-02-03,Elden Ring,1,59.99
+2023-09-18,PlayStation 5,2,499.99
+2023-01-14,Minecraft,1,29.99
+2023-03-21,Mario Kart 8 Deluxe,1,59.99
+2023-12-03,Minecraft,1,29.99
+2023-09-04,The Legend of Zelda: TOTK,1,69.99
+2023-03-20,FIFA 24,1,59.99
+2023-02-02,Minecraft,2,29.99
+2023-08-10,God of War Ragnarok,2,69.99
+2023-05-21,Hogwarts Legacy,3,69.99
+2023-02-20,The Legend of Zelda: TOTK,1,69.99
+2023-07-17,Headset Gaming,1,49.99
+2023-03-13,Xbox Series X,1,499.99
+2023-11-06,Mario Kart 8 Deluxe,3,59.99
+2023-12-30,Minecraft,4,29.99
+2023-07-28,God of War Ragnarok,1,69.99
+2023-11-08,God of War Ragnarok,1,69.99
+2023-10-03,Mario Kart 8 Deluxe,1,59.99
+2023-04-11,PlayStation 5,1,499.99
+2023-07-31,Hogwarts Legacy,2,69.99
+2023-09-06,Mario Kart 8 Deluxe,1,59.99
+2023-06-13,Mario Kart 8 Deluxe,2,59.99
+2023-07-23,The Legend of Zelda: TOTK,1,69.99
+2023-03-26,Minecraft,1,29.99
+2023-03-10,Elden Ring,1,59.99
+2023-10-05,Controlador DualSense,1,69.99
+2023-09-05,FIFA 24,1,59.99
+2023-05-30,Controlador DualSense,1,69.99
+2023-05-27,Nintendo Switch OLED,1,349.99
+2023-04-18,Tarjeta Regalo $20,1,20.0
+2023-09-11,Mario Kart 8 Deluxe,1,59.99
+2023-07-14,Hogwarts Legacy,1,69.99
+2023-02-14,PlayStation 5,2,499.99
+2023-05-10,Tarjeta Regalo $20,1,20.0
+2023-12-22,FIFA 24,4,59.99
+2023-07-30,Controlador DualSense,4,69.99
+2023-09-02,Minecraft,1,29.99
+2023-02-04,Hogwarts Legacy,1,69.99
+2023-10-27,PlayStation 5,1,499.99
+2023-09-24,FIFA 24,1,59.99
+2023-01-10,Spider-Man 2,1,69.99
+2023-08-14,PlayStation 5,1,499.99
+2023-02-05,Nintendo Switch OLED,2,349.99
+2023-08-15,Mario Kart 8 Deluxe,1,59.99
+2023-11-27,Tarjeta Regalo $20,1,20.0
+2023-08-05,Tarjeta Regalo $20,5,20.0
+2023-05-24,Nintendo Switch OLED,2,349.99
+2023-08-31,Elden Ring,1,59.99
+2023-05-15,Minecraft,1,29.99
+2023-03-12,FIFA 24,2,59.99
+2023-10-24,Minecraft,1,29.99
+2023-03-10,Nintendo Switch OLED,1,349.99
+2023-11-13,The Legend of Zelda: TOTK,1,69.99
+2023-03-16,Headset Gaming,1,49.99
+2023-11-01,Headset Gaming,1,49.99
+2023-06-20,Nintendo Switch OLED,1,349.99
+2023-12-15,Elden Ring,1,59.99
+2023-06-22,Minecraft,2,29.99
+2023-11-20,The Legend of Zelda: TOTK,1,69.99
+2023-03-14,Headset Gaming,1,49.99
+2023-04-13,Elden Ring,3,59.99
+2023-11-29,Spider-Man 2,1,69.99
+2023-05-21,The Legend of Zelda: TOTK,1,69.99
+2023-12-29,Headset Gaming,1,49.99
+2023-07-13,Headset Gaming,1,49.99
+2023-10-07,Tarjeta Regalo $20,1,20.0
+2023-06-23,PlayStation 5,1,499.99
+2023-02-25,Nintendo Switch OLED,2,349.99
+2023-03-23,Elden Ring,4,59.99
+2023-03-03,PlayStation 5,2,499.99
+2023-03-03,Elden Ring,1,59.99
+2023-10-28,Elden Ring,1,59.99
+2023-12-22,Controlador DualSense,1,69.99
+2023-11-08,Spider-Man 2,1,69.99
+2023-05-16,Minecraft,1,29.99
+2023-04-03,The Legend of Zelda: TOTK,2,69.99
+2023-06-18,Elden Ring,1,59.99
+2023-10-26,Hogwarts Legacy,1,69.99
+2023-10-28,Mario Kart 8 Deluxe,1,59.99
+2023-05-31,Controlador DualSense,2,69.99
+2023-05-18,PlayStation 5,2,499.99
+2023-08-21,PlayStation 5,1,499.99
+2023-01-23,God of War Ragnarok,1,69.99
+2023-06-05,Hogwarts Legacy,1,69.99
+2023-02-18,Nintendo Switch OLED,1,349.99
+2023-06-04,Spider-Man 2,1,69.99
+2023-09-04,PlayStation 5,4,499.99
+2023-11-10,FIFA 24,1,59.99
+2023-01-11,Mario Kart 8 Deluxe,1,59.99
+2023-08-27,Hogwarts Legacy,1,69.99
+2023-12-01,PlayStation 5,2,499.99
+2023-02-22,Nintendo Switch OLED,1,349.99
+2023-06-02,Tarjeta Regalo $20,1,20.0
+2023-02-27,Mario Kart 8 Deluxe,2,59.99
+2023-06-17,Tarjeta Regalo $20,2,20.0
+2023-11-05,Headset Gaming,1,49.99
+2023-06-25,Tarjeta Regalo $20,4,20.0
+2023-09-06,God of War Ragnarok,1,69.99
+2023-08-21,Minecraft,1,29.99
+2023-03-12,Hogwarts Legacy,1,69.99
+2023-05-15,Headset Gaming,3,49.99
+2023-11-27,PlayStation 5,1,499.99
+2023-07-18,Hogwarts Legacy,1,69.99
